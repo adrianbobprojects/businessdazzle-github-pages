@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Business Dazzle
 ---
+
+# Welcome to Business Dazzle! 💼✨
 
